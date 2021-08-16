@@ -1,6 +1,5 @@
 from exceptions import PermissionDenied
 from forum import Forum
-from thread import Thread
 from post import Post
 
 # This file does not need to contain any code. The marker runs program.py and tests the
